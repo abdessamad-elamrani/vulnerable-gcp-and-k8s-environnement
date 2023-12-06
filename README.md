@@ -12,7 +12,7 @@ terraform init
 terraform plan 
 terraform apply
 
-3) You can try to create even more vulnerabilites by using metasploit and try to get into the Containers and Databses in this deployment, hence verify if your security posture tools or CSPM / CWP can detect!
+3) You can try to exploit vulnerabilites, some of them are natif to cloud, and some of them are app related by by using metasploit, and try to get into the Containers and Databses in this deployment, hence verify if your security posture tools or CSPM / CWP can detect!
 
 Note:
 + Do deployment in order of the files in the Repo
